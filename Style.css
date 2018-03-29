@@ -1,0 +1,12 @@
+body {
+    background-color: red;
+    color: #fff;;
+}
+
+.c ard {
+    background-color: lightgray;
+    color: darkgray;
+    width: 250px;
+    height: 150px;
+    box-shadow: darkgray 2px 5px;
+}
